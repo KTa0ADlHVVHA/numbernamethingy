@@ -64,7 +64,7 @@
 
 // NOTEEE!!!!!!!! THIS IS THE IMPORTANT BIT
 // THE REST OF THIS CODE IS PURE ASS
-//  JUST USE THIS IF YOU WANNA HAVVE THIS
+//  JUST CHANGE THIS IF YOU WANNA HAVE THIS
 document.addEventListener("DOMContentLoaded", function () {
   const avatarMap = [
     { id: 1, url: "https://nadia-and-autumn-are-not-dating.webcomic.ws/files/nadia_pfp%281%29.png", name: "Nadia" },
